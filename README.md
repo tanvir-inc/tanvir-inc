@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently studying in **CSE**
 
-- 🌱 I’m currently learning **JavaScript, Frameworks**
+- 🌱 I’m currently learning **Python**
 
-- 🤝 I’m looking for help with **JavaScript**
+- 🤝 I’m looking for help with **Django**
 
 - 📫 How to reach me **ttahsin451@gmail.com**
 
